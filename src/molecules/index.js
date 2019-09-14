@@ -1,1 +1,1 @@
-console.log('object')
+export { Card } from './Card'
