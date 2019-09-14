@@ -1,6 +1,6 @@
 import React from 'react'
 import Styled from 'styled-components'
-import { colors } from '../variables'
+import { colors } from '../../variables'
 
 const ButtonPlain = Styled.button`
   padding: 0;
